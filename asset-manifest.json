@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Amnachouhdry/frontend-portfolio.git/static/css/main.15901099.css",
+    "main.js": "/Amnachouhdry/frontend-portfolio.git/static/js/main.822997e9.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Amnachouhdry/frontend-portfolio.git/static/js/787.1ed0c42c.chunk.js",
+    "static/media/skills.png": "/Amnachouhdry/frontend-portfolio.git/static/media/skills.8d8ec3b687136159c9bf.png",
+    "static/media/project1.jpg": "/Amnachouhdry/frontend-portfolio.git/static/media/project1.3f67c4378ad6206a77fe.jpg",
+    "static/media/ab.png": "/Amnachouhdry/frontend-portfolio.git/static/media/ab.b9d92cf71a0059b525df.png",
+    "static/media/projext2.webp": "/Amnachouhdry/frontend-portfolio.git/static/media/projext2.c14b6f75ed438525bf4d.webp",
+    "index.html": "/Amnachouhdry/frontend-portfolio.git/index.html",
+    "main.15901099.css.map": "/Amnachouhdry/frontend-portfolio.git/static/css/main.15901099.css.map",
+    "main.822997e9.js.map": "/Amnachouhdry/frontend-portfolio.git/static/js/main.822997e9.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Amnachouhdry/frontend-portfolio.git/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15901099.css",
+    "static/js/main.822997e9.js"
+  ]
+}
