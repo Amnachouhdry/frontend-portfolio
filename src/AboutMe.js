@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from 'react';
+import aboutMeImg from './images/aboutme.png';
+import hireImg from './images/hire.png';
 import { Link } from 'react-scroll';
 
 function AboutMe() {
@@ -36,10 +38,10 @@ function AboutMe() {
           visually appealing and user-friendly Websites.
         </p>
         <button className='btn' onClick={openLinkedInProfile}>
-          <img src='hire.png' alt='hire me' className='btn-img' /> Hire Me
+          <img src={hireImg} alt='hire me' className='btn-img' /> Hire Me
         </button>
       </div>
-      <img src='aboutme.png' alt='about img' className='about-img' />
+      <img src={aboutMeImg} alt='about img' className='about-img' />
       <img src='05.png' alt='side img' className='about-side' />
     </section>
   );
